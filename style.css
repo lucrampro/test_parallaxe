@@ -1,0 +1,35 @@
+body{
+    
+    padding: 10%    ;
+}
+
+
+.jaune{
+    
+    height: 300px;
+    width: 600px;
+    background: yellow;
+}
+.rouge{
+    
+    height: 300px;
+    width: 300px;
+    background: red;
+    margin-left: 40%;
+}
+.bleu{
+    
+    height: 300px;
+    width: 300px;
+    background: blue;
+    margin-left: 20%;
+}
+
+.vert{
+    
+      height: 400px;
+    width: 400px;
+    background: green;
+    margin-left: 25%;
+    
+}
